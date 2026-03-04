@@ -2,6 +2,8 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 
+/* KICKOFF ⚽ – Aplicație Fotbal Amateur – Persistent + CRUD */
+
 /* ═══════════════════════════════════════════════════════════════════
    KICKOFF ⚽  –  Aplicație Fotbal Amateur  –  Persistent + CRUD
    Storage: window.storage API (Artifacts) → migrabil la Supabase
