@@ -2,6 +2,8 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 
+/* KICKOFF ⚽ – Aplicație Fotbal Amateur */
+
 /* KICKOFF ⚽ – Aplicație Fotbal Amateur – Persistent + CRUD */
 
 /* ═══════════════════════════════════════════════════════════════════
